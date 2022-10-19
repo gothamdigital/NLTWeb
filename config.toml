@@ -1,0 +1,38 @@
+baseURL = 'https://www.lynntapia.art/'
+languageCode = 'en-us'
+title = 'Nicole L. Tapia'
+theme = "m10c"
+
+[params]
+  author = "Nicole"
+  description = "Artist and Computer Animator"
+  menu_item_separator = " - "
+  [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/nicole-tapia-1226441b3/"
+
+   [[params.social]]
+    icon = "instagram"
+    name = "Instagram"
+    url = "https://www.instagram.com/kuralynn_/" 
+
+[menu]
+  [[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+  
+  [[menu.main]]
+  identifier = "work"
+  name = "Sample Work"
+  url = "/work/"
+  weight = 2
+
+  [[menu.main]]
+  identifier = "resume"
+  name = "Resume"
+  url = "/resume/"
+  weight = 3
+

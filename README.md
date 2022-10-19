@@ -1,1 +1,1 @@
-# Static Web
+# Static Web Site

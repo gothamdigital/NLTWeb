@@ -8,7 +8,7 @@ Title: "Resume"
 
 Sarasota, FL.
 
-* Nicole@LynnTapia.art 
+* nicole@lynntapia.art 
 * https://www.lynntapia.art/
 * https://www.linkedin.com/in/nicole-tapia-1226441b3/
 

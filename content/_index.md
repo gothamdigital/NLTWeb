@@ -7,5 +7,5 @@ My name is Nicole and I am an aspiring computer animator who is currently studyi
 When I am not delving into the animation world, I love to discover new places to eat with friends and family, sitting around the table with them and catching up with each other. It is yet another way I enjoy connecting with others.
 
 ## Demo Reel
-
+***
 {{< vimeo 761858645 >}}
